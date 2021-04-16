@@ -1,2 +1,3 @@
 # Jaguar-Warrior
 Game Development
+#Triying to understand what I'm doing...
